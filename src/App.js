@@ -40,7 +40,7 @@ export default function App() {
         <div className="app">
           <Nav />
           <Routes>
-            <Route path="/" element={<Dashboard />} />
+            <Route path="/Ecommerce_Fitpeo" element={<Dashboard />} />
             <Route path="/product" element={<Product />} />
             <Route path="/customers" element={<Customers />} />
             <Route path="/income" element={<Income />} />

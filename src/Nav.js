@@ -13,7 +13,7 @@ let Nav = () => {
             <i class="fa-regular fa-circle-xmark" onClick={obj.fun}></i>
           </h2>
           <div className="nav">
-            <Link to="/" onClick={obj.fun}>
+            <Link to="/Ecommerce_Fitpeo" onClick={obj.fun}>
               <i class="fa-solid fa-house"></i>Dashboard
             </Link>
             <Link to="/product" onClick={obj.fun}>
