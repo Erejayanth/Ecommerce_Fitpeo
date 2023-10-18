@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Ecommerce_Fitpeo/static/css/main.a4cde9e7.css",
-    "main.js": "/Ecommerce_Fitpeo/static/js/main.bbbfd2e2.js",
+    "main.js": "/Ecommerce_Fitpeo/static/js/main.c302d3bd.js",
     "index.html": "/Ecommerce_Fitpeo/index.html",
     "main.a4cde9e7.css.map": "/Ecommerce_Fitpeo/static/css/main.a4cde9e7.css.map",
-    "main.bbbfd2e2.js.map": "/Ecommerce_Fitpeo/static/js/main.bbbfd2e2.js.map"
+    "main.c302d3bd.js.map": "/Ecommerce_Fitpeo/static/js/main.c302d3bd.js.map"
   },
   "entrypoints": [
     "static/css/main.a4cde9e7.css",
-    "static/js/main.bbbfd2e2.js"
+    "static/js/main.c302d3bd.js"
   ]
 }
